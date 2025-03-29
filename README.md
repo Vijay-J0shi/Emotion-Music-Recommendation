@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a94dea24-811b-42cf-a244-b839ead335b1)
 # Emotion-Based Music Recommender
 
 This is a Flask-based web application that detects a user’s emotion using facial recognition through a webcam and recommends music from YouTube and Spotify based on the detected emotion. It includes additional features such as a focus timer, to-do list, voice search, and the ability to save liked songs.
