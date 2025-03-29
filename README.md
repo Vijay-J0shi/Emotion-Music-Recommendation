@@ -69,6 +69,7 @@ To run this application, ensure the following are available:
    Execute the following command to install required packages:
    ```bash
    pip install -r requirements.txt
+   Train emotion-based-model-prediction.ipynb to download emotion_model.ph model ,it will save automatically, just place it in right place
    ```
 
 4. **Generate SSL Certificates**:
